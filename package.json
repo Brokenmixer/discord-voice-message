@@ -1,0 +1,6 @@
+{
+  "name": "discord-voice-message",
+  "main": "index.js",
+  "author": "ray",
+  "license": "MIT"
+}

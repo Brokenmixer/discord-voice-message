@@ -2,5 +2,8 @@
   "name": "discord-voice-message",
   "main": "index.js",
   "author": "ray",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "undici": "^5.22.1"
+  }
 }
